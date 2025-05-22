@@ -27,6 +27,7 @@ The programmer directory contains a simple I2C-based tool written in C for commu
 - GFF (possibly graphics firmware format) support
 - Basic NOR flash definitions
 - Low-level I2C communication routines (need implement)
+    - another programmer project [OpenDisplayController](https://github.com/Mcsiv/OpenDisplayController)
 
 ## 📚 Documentation
 
